@@ -3,6 +3,7 @@ export default {
   head: {
     title: 'agro',
     mode:"spa",
+    target: 'static',
     router: {
       base: '/agrodeploy-gh-pages/'
     },
